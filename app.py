@@ -12,7 +12,7 @@ headers = {
     "api-key": AZURE_OPENAI_KEY
 }
 
-st.title("📊 Equity Research Copilot")
+st.title("⚖️ Equity Research Copilot")
 st.markdown("""
 This tool retrieves company insights including:
 •⁠  ⁠*Business overview*
