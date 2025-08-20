@@ -1,0 +1,10 @@
+{
+  "ticker": "AAPL",
+  "price": 190.0,
+  "eps": 6.2,
+  "enterprise_value": 2900000000000,
+  "ebitda": 130000000000,
+  "shares_outstanding": 15500000000,
+  "g": 0.04,
+  "discount_rate": 0.09
+}
