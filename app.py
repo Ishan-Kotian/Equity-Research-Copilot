@@ -17,7 +17,7 @@ headers = {
 }
 
 # --- Streamlit UI ---
-st.title("📊 Equity Research Copilot")
+st.title("📈 Equity Research Copilot")
 st.markdown("""
 This tool retrieves company insights including:
 •⁠  ⁠*Business overview*
